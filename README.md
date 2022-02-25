@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sudhirkannaujiya43
 - 👀 I’m interested in cyber security research
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me sudhirkannaujiya@yandex.com
 
 <!---
