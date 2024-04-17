@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sudhirkannaujiya43
+- 👋 Hi, I’m @sudhirkannajiya43
 - 👀 I’m interested in cyber security research
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on software development
-- 📫 How to reach me sudhirkannaujiya@yandex.com
+- 📫 How to reach me sudhirkannaujiya@yahoo.com
 
 <!---
 sudhirkannaujiya43/sudhirkannaujiya43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
