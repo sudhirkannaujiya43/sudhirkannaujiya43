@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sudhirkannajiya43
 - 👀 I’m interested in cyber security research
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on software development
+- 💞️ I’m looking to collaborate on security
 - 📫 How to reach me sudhirkannaujiya@pm.me
 
 <!---
